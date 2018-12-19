@@ -7,10 +7,10 @@ React: 16.6.3
 webpack: 4.27.1
 
 
-#setup steps are listed here:
-https://wordpress.com/post/jnanakosha.wordpress.com/455
+# setup steps are listed here:
+https://yogeshkumar05.wordpress.com/2018/12/19/get-started-with-reactjs-and-sass/
 
-#to test
+# to test the code
 1. clone the repository into a local folder
 2. navigate to the cloned folder and execute in cmd:
     npm install
